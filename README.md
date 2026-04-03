@@ -2,8 +2,6 @@
 
 **Développeur** **Full-Stack**.
 
-### 🚀 En bref
-
 🔭 Actuellement sur : **Fivem**
 
 🌱 En train d'apprendre : **Mapping**
